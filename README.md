@@ -48,7 +48,7 @@ Presión de sangre actual, Altura, Peso.
 ![App Screenshot](/Screenshots/ERD.png)
 
 ## Diagrama Relacional
-![App Screenshot](/Screenshots/relational.png)
+![App Screenshot](/Screenshots/Relational.png)
 
 ## Tablas
 
